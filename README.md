@@ -1,6 +1,6 @@
 ## Mega War Card Game
 
-War is a simple card game, typically played by two players using a standard playing card deck. In this version called "Mega War" it can be played with as many players as you want. The implementation has defaulted to 4 players, but this can be changed. The deck is divided evenly, with each player receiving 26 cards, dealt one at a time, face down. Anyone may deal first. Each player places their stack of cards face down, in front of them.
+War is a simple card game, typically played by two players using a standard playing card deck. In this version called "Mega War", it can be played with as many players as you want. The implementation has defaulted to 4 players, but this can be changed. The deck is divided evenly, with each player receiving 26 cards, dealt one at a time, face down. Anyone may deal first. Each player places their stack of cards face down, in front of them.
 
 Each player turns up a card at the same time and the player with the higher card takes both cards and puts them, face down, on the bottom of his stack.
 
