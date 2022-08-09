@@ -9,3 +9,5 @@ If the cards are the same rank, it is War. Each player turns up one card face do
 ### Implementation
 
 `main.cpp` Creates 4 players and automatically begins battling (war). The program will automatically handle battles (including ties), until 1 player has all the cards. 
+
+![alt text](https://github.com/ImVispo/Mega-War-Card-Game/blob/master/WarCardGame-1.PNG?raw=true)
